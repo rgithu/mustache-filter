@@ -8,8 +8,9 @@ h1 {
 
 canvas {
     animation-name: canvas2;
-    animation-duration: 5s;
+    animation-duration: 6s;
     animation-iteration-count: infinite;
+    border: 5px dotted rgb(5, 5, 238);
 }
 
 @keyframes canvas2 {
